@@ -1,32 +1,3 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-
-
-steps to run
-
-cd "C:\Users\hp\Documents\Face Scan\moodscanner"
-npm run dev
-=======
-# Mood-Scanner
-AI-powered Mood Scanner that analyzes facial expressions and generates fun meme-style stickers using React and Google Gemini API.
-
-
 # 🎭 AI Mood Scanner
 
 This is a fun and interactive web app that uses your camera to detect your mood and turn it into a meme-style sticker. The app captures your face in real time, analyzes your facial expression using AI, and determines your current mood along with an emoji and description. Based on the detected mood, you can choose a meme style and generate a personalized sticker that reflects your vibe. It combines AI, camera input, and creative UI to make something simple but entertaining and shareable.
@@ -95,7 +66,24 @@ npm run dev
 * Improve UI
 * Add sharing feature
 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 ---
 
 ⭐ If you like this project, give it a star!
->>>>>>> 601d63dba239cbc67ed2e3cad615576054c933a0
+
+
